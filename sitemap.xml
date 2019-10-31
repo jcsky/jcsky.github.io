@@ -2,84 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>http://127.0.0.1:1111/</loc>
+            <loc>https://jcsky.github.io/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/authors/</loc>
+            <loc>https://jcsky.github.io/authors/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/authors/joe-bloggs/</loc>
+            <loc>https://jcsky.github.io/authors/joe-bloggs/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/categories/</loc>
+            <loc>https://jcsky.github.io/categories/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/categories/hello-world/</loc>
+            <loc>https://jcsky.github.io/categories/hello-world/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/page/1/</loc>
+            <loc>https://jcsky.github.io/page/1/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/some-article/</loc>
+            <loc>https://jcsky.github.io/some-article/</loc>
             
                 <lastmod>2017-09-20</lastmod>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/tags/</loc>
+            <loc>https://jcsky.github.io/tags/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/tags/other/</loc>
+            <loc>https://jcsky.github.io/tags/other/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/tags/other/page/1/</loc>
+            <loc>https://jcsky.github.io/tags/other/page/1/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/tags/rust/</loc>
+            <loc>https://jcsky.github.io/tags/rust/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/tags/rust/page/1/</loc>
+            <loc>https://jcsky.github.io/tags/rust/page/1/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/tags/ssg/</loc>
+            <loc>https://jcsky.github.io/tags/ssg/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/tags/ssg/page/1/</loc>
+            <loc>https://jcsky.github.io/tags/ssg/page/1/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/tags/test/</loc>
+            <loc>https://jcsky.github.io/tags/test/</loc>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/tags/test/page/1/</loc>
+            <loc>https://jcsky.github.io/tags/test/page/1/</loc>
             
         </url>
     
